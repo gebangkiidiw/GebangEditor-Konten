@@ -1,5 +1,34 @@
 {
   "v": 1,
-  "terbit": 1792343606,
-  "item": []
+  "terbit": 1792351431,
+  "item": [
+    {
+      "id": "preset-murotal-ayat-putih",
+      "kategori": "preset",
+      "nama": "Ayat Putih",
+      "premium": false,
+      "versi": 1,
+      "grup": "murotal",
+      "thumb": {
+        "nama": "thumb.png",
+        "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/preset/preset-murotal-ayat-putih-v1-thumb.png",
+        "sha256": "0c567c151cd0fd181120c6b6895e8e95fdb551fd86364bc868ced5868b6245ed",
+        "size": 131959
+      },
+      "file": [
+        {
+          "nama": "OpenSans-Bold.woff2",
+          "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/preset/preset-murotal-ayat-putih-v1-OpenSans-Bold.woff2",
+          "sha256": "114f872abf6cae70383b09ca2168821991fde718702d79cdc457a49b03560cb0",
+          "size": 18260
+        },
+        {
+          "nama": "preset.json",
+          "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/preset/preset-murotal-ayat-putih-v1-preset.json",
+          "sha256": "12f05903ffc376c052f889053975262c8a8f998887ae91472ac84d51570302a5",
+          "size": 929
+        }
+      ]
+    }
+  ]
 }
