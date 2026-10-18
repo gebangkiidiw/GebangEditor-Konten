@@ -1,0 +1,27 @@
+{
+  "v": 1,
+  "terbit": 1792343370,
+  "item": [
+    {
+      "id": "stiker-contoh-hijau",
+      "kategori": "stiker",
+      "nama": "Contoh Hijau",
+      "premium": false,
+      "versi": 1,
+      "thumb": {
+        "nama": "thumb.png",
+        "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/stiker/stiker-contoh-hijau-v1-thumb.png",
+        "sha256": "45ec59c31da0629d6bf47a7b2e0726e5093d18ac884395ffdca332e83c4822cb",
+        "size": 8830
+      },
+      "file": [
+        {
+          "nama": "halo.gif",
+          "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/stiker/stiker-contoh-hijau-v1-halo.gif",
+          "sha256": "8c26771ea1420b10594f8622940065a08dfb22dc28f09bf2aa2a78e533a52241",
+          "size": 18222
+        }
+      ]
+    }
+  ]
+}
