@@ -1,27 +1,5 @@
 {
   "v": 1,
-  "terbit": 1792343603,
-  "item": [
-    {
-      "id": "stiker-contoh-emas",
-      "kategori": "stiker",
-      "nama": "Contoh Emas",
-      "premium": true,
-      "versi": 1,
-      "thumb": {
-        "nama": "thumb.png",
-        "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/stiker/stiker-contoh-emas-v1-thumb.png",
-        "sha256": "e0b3586132f6639cfac8954856b72a5f8473965e403c977865c5e8db1d497ad7",
-        "size": 8062
-      },
-      "file": [
-        {
-          "nama": "bintang.gif",
-          "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/stiker/stiker-contoh-emas-v1-bintang.gif",
-          "sha256": "f3ec69854aaba46b72b74e084d214b22883bd64dff514f82c0a6c75153f2bbe0",
-          "size": 8263
-        }
-      ]
-    }
-  ]
+  "terbit": 1792343606,
+  "item": []
 }
