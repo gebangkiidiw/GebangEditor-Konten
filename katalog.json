@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "terbit": 1792582593,
+  "terbit": 1792582694,
   "item": [
     {
       "id": "preset-murotal-ayat-putih",
@@ -55,6 +55,34 @@
           "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/partikel/partikel-malaikat-kecil-v1-partikel.json",
           "sha256": "a03ff13d299488f71b5ae1b7aba25188c6be1cb8b78aa2e73aa027b3a14553e6",
           "size": 1567
+        }
+      ]
+    },
+    {
+      "id": "partikel-bintang-gantung",
+      "kategori": "partikel",
+      "nama": "Bintang gantung",
+      "premium": false,
+      "versi": 1,
+      "minApp": "0.1.5",
+      "thumb": {
+        "nama": "thumb.png",
+        "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/partikel/partikel-bintang-gantung-v1-thumb.png",
+        "sha256": "4214f800b32fea646bd2b6712afaf6e702d820e0c058c76e52fe8f55b604af38",
+        "size": 52107
+      },
+      "file": [
+        {
+          "nama": "bintang.png",
+          "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/partikel/partikel-bintang-gantung-v1-bintang.png",
+          "sha256": "8bc916ebad89609b44a3e0e7ba2eecf5d396938944e6e66d8b3a33494414d9ae",
+          "size": 46715
+        },
+        {
+          "nama": "partikel.json",
+          "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/partikel/partikel-bintang-gantung-v1-partikel.json",
+          "sha256": "17bc4c0256ec338f2293a59792f038a6ba61a9dc6a5015a42cbb844b0b50aca2",
+          "size": 1397
         }
       ]
     }
