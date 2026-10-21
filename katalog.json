@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "terbit": 1792351431,
+  "terbit": 1792582593,
   "item": [
     {
       "id": "preset-murotal-ayat-putih",
@@ -27,6 +27,34 @@
           "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/preset/preset-murotal-ayat-putih-v1-preset.json",
           "sha256": "12f05903ffc376c052f889053975262c8a8f998887ae91472ac84d51570302a5",
           "size": 929
+        }
+      ]
+    },
+    {
+      "id": "partikel-malaikat-kecil",
+      "kategori": "partikel",
+      "nama": "Malaikat kecil",
+      "premium": false,
+      "versi": 1,
+      "minApp": "0.1.5",
+      "thumb": {
+        "nama": "thumb.png",
+        "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/partikel/partikel-malaikat-kecil-v1-thumb.png",
+        "sha256": "b33666071444c9db00ab770d461e3b2f2e0076d363154b522f052342ff6b46aa",
+        "size": 43702
+      },
+      "file": [
+        {
+          "nama": "malaikat.png",
+          "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/partikel/partikel-malaikat-kecil-v1-malaikat.png",
+          "sha256": "25c885f6e0baf2fbf4c9141a9064baec5b6b4a1d3f64648effa787d352d534d3",
+          "size": 30666
+        },
+        {
+          "nama": "partikel.json",
+          "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/partikel/partikel-malaikat-kecil-v1-partikel.json",
+          "sha256": "a03ff13d299488f71b5ae1b7aba25188c6be1cb8b78aa2e73aa027b3a14553e6",
+          "size": 1567
         }
       ]
     }
