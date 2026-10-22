@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "terbit": 1792660800,
+  "terbit": 1792660804,
   "item": [
     {
       "id": "preset-murotal-ayat-putih",
@@ -148,7 +148,7 @@
       "id": "preset-bulan-sabit",
       "kategori": "preset",
       "nama": "Bulan Sabit",
-      "premium": false,
+      "premium": true,
       "versi": 1,
       "grup": "murotal",
       "minApp": "0.1.5",
