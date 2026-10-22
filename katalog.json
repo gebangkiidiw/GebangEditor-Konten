@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "terbit": 1792658716,
+  "terbit": 1792658721,
   "item": [
     {
       "id": "preset-murotal-ayat-putih",
@@ -170,6 +170,35 @@
           "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/preset/preset-bulan-sabit-v1-preset.json",
           "sha256": "43c44ffbad81d1256e9f2097369fc676f1e6bca11f1b551ad1f4e3b212423812",
           "size": 8605
+        }
+      ]
+    },
+    {
+      "id": "preset-geometri-putar",
+      "kategori": "preset",
+      "nama": "Geometri Putar",
+      "premium": false,
+      "versi": 1,
+      "grup": "murotal",
+      "minApp": "0.1.5",
+      "thumb": {
+        "nama": "thumb.png",
+        "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/preset/preset-geometri-putar-v1-thumb.png",
+        "sha256": "d410a506b709c84eca4e45d2dd01b65680356f70258a900d646635377fd36729",
+        "size": 24747
+      },
+      "file": [
+        {
+          "nama": "dekor.png",
+          "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/preset/preset-geometri-putar-v1-dekor.png",
+          "sha256": "6deeeaf5dca1001bb9868f05a735dc674e54efbffb2c439ac62f65ecb8c4708c",
+          "size": 28751
+        },
+        {
+          "nama": "preset.json",
+          "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/preset/preset-geometri-putar-v1-preset.json",
+          "sha256": "5ae846f2a360ffb3fe992a12642ace507525ca1760d5b94c34ea8dff36b0a438",
+          "size": 6973
         }
       ]
     }
