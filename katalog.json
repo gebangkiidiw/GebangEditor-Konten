@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "terbit": 1792660393,
+  "terbit": 1792660397,
   "item": [
     {
       "id": "preset-murotal-ayat-putih",
@@ -725,6 +725,28 @@
           "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-infra-merah-v1-infra-merah.gbfx",
           "sha256": "b44662b2627bcf7b76a31b3152cc7dc5f8ac77652caa391fbaa6e92ac403e08a",
           "size": 322
+        }
+      ]
+    },
+    {
+      "id": "filter-kabut",
+      "kategori": "efek",
+      "nama": "Kabut",
+      "premium": true,
+      "versi": 1,
+      "grup": "filter",
+      "thumb": {
+        "nama": "thumb.png",
+        "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-kabut-v1-thumb.png",
+        "sha256": "461ec65ed81a63c4ffcad172df4f353016fdd658f44f6c32c28684f94127de1d",
+        "size": 9936
+      },
+      "file": [
+        {
+          "nama": "kabut.gbfx",
+          "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-kabut-v1-kabut.gbfx",
+          "sha256": "ed5f796e2e44432b46a156aff20fd4ae11d51d01703bfe2ef771d381aa02ff49",
+          "size": 340
         }
       ]
     }
