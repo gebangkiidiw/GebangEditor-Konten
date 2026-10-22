@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "terbit": 1792660812,
+  "terbit": 1792660814,
   "item": [
     {
       "id": "preset-murotal-ayat-putih",
@@ -90,7 +90,7 @@
       "id": "preset-kubah-mihrab",
       "kategori": "preset",
       "nama": "Kubah Mihrab",
-      "premium": false,
+      "premium": true,
       "versi": 1,
       "grup": "murotal",
       "minApp": "0.1.5",
