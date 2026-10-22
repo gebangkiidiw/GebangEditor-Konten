@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "terbit": 1792660804,
+  "terbit": 1792660806,
   "item": [
     {
       "id": "preset-murotal-ayat-putih",
@@ -177,7 +177,7 @@
       "id": "preset-geometri-putar",
       "kategori": "preset",
       "nama": "Geometri Putar",
-      "premium": false,
+      "premium": true,
       "versi": 1,
       "grup": "murotal",
       "minApp": "0.1.5",
