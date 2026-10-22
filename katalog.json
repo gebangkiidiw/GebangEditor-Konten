@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "terbit": 1792660497,
+  "terbit": 1792660501,
   "item": [
     {
       "id": "preset-murotal-ayat-putih",
@@ -1209,6 +1209,28 @@
           "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-pastel-v1-pastel.gbfx",
           "sha256": "0e09901784adaa93a35053922c6ef4caf3582a4f71bbee179ef39baf66f5a034",
           "size": 342
+        }
+      ]
+    },
+    {
+      "id": "filter-polaroid",
+      "kategori": "efek",
+      "nama": "Polaroid",
+      "premium": true,
+      "versi": 1,
+      "grup": "filter",
+      "thumb": {
+        "nama": "thumb.png",
+        "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-polaroid-v1-thumb.png",
+        "sha256": "fc079a2161fa1d1a9f7b8894ab22bbbca02f12a8c834961b8847d42c3213ab12",
+        "size": 10751
+      },
+      "file": [
+        {
+          "nama": "polaroid.gbfx",
+          "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-polaroid-v1-polaroid.gbfx",
+          "sha256": "20a5b4aa77299e6c1ec7537708410855c85e977a57bc50bbe57cde55d36b759a",
+          "size": 348
         }
       ]
     }
