@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "terbit": 1792660445,
+  "terbit": 1792660450,
   "item": [
     {
       "id": "preset-murotal-ayat-putih",
@@ -967,6 +967,28 @@
           "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-merah-muda-v1-merah-muda.gbfx",
           "sha256": "92b1f95506904c94c7ae9501428cde786314e45cf14a2e8cf4e3874160f22b79",
           "size": 331
+        }
+      ]
+    },
+    {
+      "id": "filter-mono-biru",
+      "kategori": "efek",
+      "nama": "Mono Biru",
+      "premium": true,
+      "versi": 1,
+      "grup": "filter",
+      "thumb": {
+        "nama": "thumb.png",
+        "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-mono-biru-v1-thumb.png",
+        "sha256": "d8e653234a2ff9d16d256da5142dba552a934891f546cf9f33cd24a9dd92a863",
+        "size": 9933
+      },
+      "file": [
+        {
+          "nama": "mono-biru.gbfx",
+          "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-mono-biru-v1-mono-biru.gbfx",
+          "sha256": "dd6546ebca4e6dc0d6d652216768a667310a56db02766baf67f7eca5be5f2b71",
+          "size": 344
         }
       ]
     }
