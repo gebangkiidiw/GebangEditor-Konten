@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "terbit": 1792660550,
+  "terbit": 1792660556,
   "item": [
     {
       "id": "preset-murotal-ayat-putih",
@@ -1451,6 +1451,28 @@
           "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-ungu-mistik-v1-ungu-mistik.gbfx",
           "sha256": "d3866b91307204ca8aa1448f4995e573525a66b6716ff3d0b600dbe190f7256c",
           "size": 339
+        }
+      ]
+    },
+    {
+      "id": "filter-vhs",
+      "kategori": "efek",
+      "nama": "VHS",
+      "premium": true,
+      "versi": 1,
+      "grup": "filter",
+      "thumb": {
+        "nama": "thumb.png",
+        "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-vhs-v1-thumb.png",
+        "sha256": "0d1888f4086f68af3a20cbe6a5bb15020ab6b9240ffae835f3bbb5f694807d83",
+        "size": 11053
+      },
+      "file": [
+        {
+          "nama": "vhs.gbfx",
+          "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-vhs-v1-vhs.gbfx",
+          "sha256": "5a105a3220f63d926ea38269127859d07e5753f70323d93888afa445c40f9c4e",
+          "size": 324
         }
       ]
     }
