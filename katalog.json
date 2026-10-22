@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "terbit": 1792658725,
+  "terbit": 1792658730,
   "item": [
     {
       "id": "preset-murotal-ayat-putih",
@@ -228,6 +228,35 @@
           "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/preset/preset-kunang-kunang-v1-preset.json",
           "sha256": "d6461f12dcc5c6e6514d118521a181578088db6bd117e280542110a2be0a7187",
           "size": 16894
+        }
+      ]
+    },
+    {
+      "id": "preset-tasbih-ayat",
+      "kategori": "preset",
+      "nama": "Tasbih Ayat",
+      "premium": false,
+      "versi": 1,
+      "grup": "murotal",
+      "minApp": "0.1.5",
+      "thumb": {
+        "nama": "thumb.png",
+        "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/preset/preset-tasbih-ayat-v1-thumb.png",
+        "sha256": "089925f50462457e414dc08aef152020c883c808e9d672221b4d8c095652d7ed",
+        "size": 25343
+      },
+      "file": [
+        {
+          "nama": "dekor.png",
+          "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/preset/preset-tasbih-ayat-v1-dekor.png",
+          "sha256": "eba62b4006e36331c19fba5c1df50876f1bf523d2533c8060cc614dc4efcaf72",
+          "size": 7269
+        },
+        {
+          "nama": "preset.json",
+          "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/preset/preset-tasbih-ayat-v1-preset.json",
+          "sha256": "c35c9f6cd95f50933b8c15a7730292d5f357929ee8859d0ef333ae59724dfcc1",
+          "size": 23947
         }
       ]
     }
