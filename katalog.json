@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "terbit": 1792660329,
+  "terbit": 1792660333,
   "item": [
     {
       "id": "preset-murotal-ayat-putih",
@@ -439,6 +439,28 @@
           "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-cerah-v1-cerah.gbfx",
           "sha256": "94b3eb7ed9df154cad942992d9b37fa2acd3a749565f666a958e1ec7cb1c4e03",
           "size": 343
+        }
+      ]
+    },
+    {
+      "id": "filter-cokelat-hangat",
+      "kategori": "efek",
+      "nama": "Cokelat Hangat",
+      "premium": true,
+      "versi": 1,
+      "grup": "filter",
+      "thumb": {
+        "nama": "thumb.png",
+        "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-cokelat-hangat-v1-thumb.png",
+        "sha256": "df52e18f7cf1f4a4a8a055bcabfd0a3b116f94a128b7a6cdc6a91674d60f035e",
+        "size": 11442
+      },
+      "file": [
+        {
+          "nama": "cokelat-hangat.gbfx",
+          "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-cokelat-hangat-v1-cokelat-hangat.gbfx",
+          "sha256": "f51d2abec08da457999edf2ff6c200a42313266f0d54ce9c981302d83eaf25f8",
+          "size": 364
         }
       ]
     }
