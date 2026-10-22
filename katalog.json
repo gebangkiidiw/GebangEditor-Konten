@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "terbit": 1792660473,
+  "terbit": 1792660478,
   "item": [
     {
       "id": "preset-murotal-ayat-putih",
@@ -1099,6 +1099,28 @@
           "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-musim-dingin-v1-musim-dingin.gbfx",
           "sha256": "dffdfcf33cbd45b63d2a29ad2fcde212751712f913ac8de94ea005a87e8afc67",
           "size": 354
+        }
+      ]
+    },
+    {
+      "id": "filter-musim-gugur",
+      "kategori": "efek",
+      "nama": "Musim Gugur",
+      "premium": true,
+      "versi": 1,
+      "grup": "filter",
+      "thumb": {
+        "nama": "thumb.png",
+        "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-musim-gugur-v1-thumb.png",
+        "sha256": "87939423660191494a3538ce2ad1f73f272799dd860346614fbfaf4ed3ef80d3",
+        "size": 11646
+      },
+      "file": [
+        {
+          "nama": "musim-gugur.gbfx",
+          "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-musim-gugur-v1-musim-gugur.gbfx",
+          "sha256": "74f8bff0905a319af7344d81d6623770d939e7e3b015129d9d2f81f3139aabc8",
+          "size": 355
         }
       ]
     }
