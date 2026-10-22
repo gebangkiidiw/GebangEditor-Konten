@@ -1,12 +1,12 @@
 {
   "v": 1,
-  "terbit": 1792660825,
+  "terbit": 1792660827,
   "item": [
     {
       "id": "preset-murotal-ayat-putih",
       "kategori": "preset",
       "nama": "Ayat Putih",
-      "premium": false,
+      "premium": true,
       "versi": 1,
       "grup": "murotal",
       "thumb": {
