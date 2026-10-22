@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "terbit": 1792660817,
+  "terbit": 1792660819,
   "item": [
     {
       "id": "preset-murotal-ayat-putih",
@@ -119,7 +119,7 @@
       "id": "preset-kupu-taman",
       "kategori": "preset",
       "nama": "Kupu Taman",
-      "premium": false,
+      "premium": true,
       "versi": 1,
       "grup": "murotal",
       "minApp": "0.1.5",
