@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "terbit": 1792660819,
+  "terbit": 1792660822,
   "item": [
     {
       "id": "preset-murotal-ayat-putih",
@@ -293,7 +293,7 @@
       "id": "preset-sulur-emas",
       "kategori": "preset",
       "nama": "Sulur Emas",
-      "premium": false,
+      "premium": true,
       "versi": 1,
       "grup": "murotal",
       "minApp": "0.1.5",
