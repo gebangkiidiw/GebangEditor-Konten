@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "terbit": 1792658749,
+  "terbit": 1792660319,
   "item": [
     {
       "id": "preset-murotal-ayat-putih",
@@ -373,6 +373,28 @@
           "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/preset/preset-hujan-nur-v1-preset.json",
           "sha256": "ce092bdf2371d5cc302f27901316c76c69abd8d997f71bd95b3d9f5b10e850c6",
           "size": 16511
+        }
+      ]
+    },
+    {
+      "id": "filter-bleach-bypass",
+      "kategori": "efek",
+      "nama": "Bleach Bypass",
+      "premium": true,
+      "versi": 1,
+      "grup": "filter",
+      "thumb": {
+        "nama": "thumb.png",
+        "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-bleach-bypass-v1-thumb.png",
+        "sha256": "95fe55d4db7977abd884ff13b55b9e540f52b85957f841a5b667d7966633e74a",
+        "size": 11350
+      },
+      "file": [
+        {
+          "nama": "bleach-bypass.gbfx",
+          "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-bleach-bypass-v1-bleach-bypass.gbfx",
+          "sha256": "ef783aaccc7b4d228916dd19c8d13ad85570e4aced657d47bec26255f430f16e",
+          "size": 356
         }
       ]
     }
