@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "terbit": 1792658707,
+  "terbit": 1792658711,
   "item": [
     {
       "id": "preset-murotal-ayat-putih",
@@ -112,6 +112,35 @@
           "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/preset/preset-kubah-mihrab-v1-preset.json",
           "sha256": "17e87cefb2fcd5ce2e49ca3010095cfb3851c463d23f3514d952681874787a29",
           "size": 3751
+        }
+      ]
+    },
+    {
+      "id": "preset-kupu-taman",
+      "kategori": "preset",
+      "nama": "Kupu Taman",
+      "premium": false,
+      "versi": 1,
+      "grup": "murotal",
+      "minApp": "0.1.5",
+      "thumb": {
+        "nama": "thumb.png",
+        "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/preset/preset-kupu-taman-v1-thumb.png",
+        "sha256": "2d4c5c303df4f4c7622154aac25a424e6c69d7461cb59d59394b2bcb768dd073",
+        "size": 22737
+      },
+      "file": [
+        {
+          "nama": "dekor.png",
+          "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/preset/preset-kupu-taman-v1-dekor.png",
+          "sha256": "4e1d8b3813741fc0aacd83f50c88c82592350638e873554477ae2e0d0bfdc4e4",
+          "size": 28805
+        },
+        {
+          "nama": "preset.json",
+          "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/preset/preset-kupu-taman-v1-preset.json",
+          "sha256": "7e8eedbceaf5033c29101a9c426741dcfbfc67acd810772db541eed341dff357",
+          "size": 8211
         }
       ]
     }
