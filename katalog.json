@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "terbit": 1792679286,
+  "terbit": 1792679293,
   "item": [
     {
       "id": "preset-murotal-ayat-putih",
@@ -1496,6 +1496,29 @@
           "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/preset/preset-lirik-gulir-v1-preset.json",
           "sha256": "1ed90e8e85783e9c9f424c966331a38119238b041a5abf8708b9382989cd915b",
           "size": 525
+        }
+      ]
+    },
+    {
+      "id": "preset-kartu-musik",
+      "kategori": "preset",
+      "nama": "Kartu Musik",
+      "premium": true,
+      "versi": 1,
+      "grup": "umum",
+      "minApp": "0.1.6",
+      "thumb": {
+        "nama": "thumb.png",
+        "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/preset/preset-kartu-musik-v1-thumb.png",
+        "sha256": "20d393fbeaebef0208d8f8b049f6a94880abe6572d36f719742a37a5dc7a33a2",
+        "size": 31931
+      },
+      "file": [
+        {
+          "nama": "preset.json",
+          "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/preset/preset-kartu-musik-v1-preset.json",
+          "sha256": "23e548d1ea75d2b7dd98043b3b308cdc76a087815f663467674627dfb37e2000",
+          "size": 466
         }
       ]
     }
