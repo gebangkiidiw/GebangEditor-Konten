@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "terbit": 1792658721,
+  "terbit": 1792658725,
   "item": [
     {
       "id": "preset-murotal-ayat-putih",
@@ -199,6 +199,35 @@
           "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/preset/preset-geometri-putar-v1-preset.json",
           "sha256": "5ae846f2a360ffb3fe992a12642ace507525ca1760d5b94c34ea8dff36b0a438",
           "size": 6973
+        }
+      ]
+    },
+    {
+      "id": "preset-kunang-kunang",
+      "kategori": "preset",
+      "nama": "Kunang-kunang",
+      "premium": false,
+      "versi": 1,
+      "grup": "murotal",
+      "minApp": "0.1.5",
+      "thumb": {
+        "nama": "thumb.png",
+        "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/preset/preset-kunang-kunang-v1-thumb.png",
+        "sha256": "81b68afd82c569e16ff7b834dcc3c900a48fa8ebb1d79b88cc2fa82a16767fc0",
+        "size": 23636
+      },
+      "file": [
+        {
+          "nama": "dekor.png",
+          "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/preset/preset-kunang-kunang-v1-dekor.png",
+          "sha256": "64061871243b6d3c7dfdf37743c250121da0c1737b1ea2ec477ee6233ceba1f1",
+          "size": 4091
+        },
+        {
+          "nama": "preset.json",
+          "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/preset/preset-kunang-kunang-v1-preset.json",
+          "sha256": "d6461f12dcc5c6e6514d118521a181578088db6bd117e280542110a2be0a7187",
+          "size": 16894
         }
       ]
     }
