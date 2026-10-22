@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "terbit": 1792660407,
+  "terbit": 1792660412,
   "item": [
     {
       "id": "preset-murotal-ayat-putih",
@@ -791,6 +791,28 @@
           "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-kopi-v1-kopi.gbfx",
           "sha256": "5bf0d3853704d41139baea56813e68c171be1e643624ab7604ccbd6804725419",
           "size": 340
+        }
+      ]
+    },
+    {
+      "id": "filter-koran",
+      "kategori": "efek",
+      "nama": "Koran",
+      "premium": true,
+      "versi": 1,
+      "grup": "filter",
+      "thumb": {
+        "nama": "thumb.png",
+        "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-koran-v1-thumb.png",
+        "sha256": "6f05e8673ae109919d047ecadebc279897da38e58d5bc9cfb3666ece34abb16e",
+        "size": 8345
+      },
+      "file": [
+        {
+          "nama": "koran.gbfx",
+          "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-koran-v1-koran.gbfx",
+          "sha256": "09d9d6a1db5c3b3554f8465b6a18af4c465a6a9d4363615fbf517594536df482",
+          "size": 343
         }
       ]
     }
