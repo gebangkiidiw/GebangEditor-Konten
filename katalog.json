@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "terbit": 1792658730,
+  "terbit": 1792658735,
   "item": [
     {
       "id": "preset-murotal-ayat-putih",
@@ -257,6 +257,35 @@
           "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/preset/preset-tasbih-ayat-v1-preset.json",
           "sha256": "c35c9f6cd95f50933b8c15a7730292d5f357929ee8859d0ef333ae59724dfcc1",
           "size": 23947
+        }
+      ]
+    },
+    {
+      "id": "preset-bingkai-kata",
+      "kategori": "preset",
+      "nama": "Bingkai Kata",
+      "premium": false,
+      "versi": 1,
+      "grup": "murotal",
+      "minApp": "0.1.5",
+      "thumb": {
+        "nama": "thumb.png",
+        "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/preset/preset-bingkai-kata-v1-thumb.png",
+        "sha256": "1b8ef4c1cd9a74924cdb41f406e04ecc5cb4361f2883040f0791a0a6ef0ca960",
+        "size": 21099
+      },
+      "file": [
+        {
+          "nama": "dekor.png",
+          "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/preset/preset-bingkai-kata-v1-dekor.png",
+          "sha256": "b52c0e86d3a608991cf4e7ebdda6f2b071ec46a6ca667acf8b16ec7e7b4fb739",
+          "size": 1141
+        },
+        {
+          "nama": "preset.json",
+          "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/preset/preset-bingkai-kata-v1-preset.json",
+          "sha256": "ebb2c13a3592fbe92fa0813a9603b1cb7e767ff44911b6159f567fe0ed29634c",
+          "size": 6062
         }
       ]
     }
