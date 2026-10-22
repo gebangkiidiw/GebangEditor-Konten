@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "terbit": 1792660521,
+  "terbit": 1792660525,
   "item": [
     {
       "id": "preset-murotal-ayat-putih",
@@ -1319,6 +1319,28 @@
           "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-senja-emas-v1-senja-emas.gbfx",
           "sha256": "d2939f8e08b579bf8b1928376e978514b83111a4291f508d1c623bdc2f79975a",
           "size": 362
+        }
+      ]
+    },
+    {
+      "id": "filter-sepia-pekat",
+      "kategori": "efek",
+      "nama": "Sepia Pekat",
+      "premium": true,
+      "versi": 1,
+      "grup": "filter",
+      "thumb": {
+        "nama": "thumb.png",
+        "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-sepia-pekat-v1-thumb.png",
+        "sha256": "7e3ac34157ff9bb32ba976ca008683147d73ad0dcbbf7bba3ff708137b2f4d1f",
+        "size": 9985
+      },
+      "file": [
+        {
+          "nama": "sepia-pekat.gbfx",
+          "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-sepia-pekat-v1-sepia-pekat.gbfx",
+          "sha256": "c300cf00cfd9014c89e934891616d1bf88d25e808062ef4bf420e91b83530d6c",
+          "size": 354
         }
       ]
     }
