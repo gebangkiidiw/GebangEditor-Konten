@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "terbit": 1792660501,
+  "terbit": 1792660506,
   "item": [
     {
       "id": "preset-murotal-ayat-putih",
@@ -1231,6 +1231,28 @@
           "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-polaroid-v1-polaroid.gbfx",
           "sha256": "20a5b4aa77299e6c1ec7537708410855c85e977a57bc50bbe57cde55d36b759a",
           "size": 348
+        }
+      ]
+    },
+    {
+      "id": "filter-redup",
+      "kategori": "efek",
+      "nama": "Redup",
+      "premium": true,
+      "versi": 1,
+      "grup": "filter",
+      "thumb": {
+        "nama": "thumb.png",
+        "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-redup-v1-thumb.png",
+        "sha256": "8d4d1cbd404dbd26b09f4da5677be4964e720b2c54d3366014680c4cd7a0939a",
+        "size": 10868
+      },
+      "file": [
+        {
+          "nama": "redup.gbfx",
+          "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-redup-v1-redup.gbfx",
+          "sha256": "6c09133bfe4e2e82b4c9654aa2b3dec2783c9d168472843efa02740f06c03a69",
+          "size": 344
         }
       ]
     }
