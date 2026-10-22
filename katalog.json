@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "terbit": 1792660512,
+  "terbit": 1792660516,
   "item": [
     {
       "id": "preset-murotal-ayat-putih",
@@ -1275,6 +1275,28 @@
           "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-rembulan-v1-rembulan.gbfx",
           "sha256": "b33fe45d5ab49551eadbf969d0c20f04d873ff28eb2630fe80941f7f69da42bc",
           "size": 343
+        }
+      ]
+    },
+    {
+      "id": "filter-retro-80an",
+      "kategori": "efek",
+      "nama": "Retro 80an",
+      "premium": true,
+      "versi": 1,
+      "grup": "filter",
+      "thumb": {
+        "nama": "thumb.png",
+        "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-retro-80an-v1-thumb.png",
+        "sha256": "722fb1a76bbd81e9d5491fa04f22b4a257cf7b729615ffb339736e9f6cdfbb24",
+        "size": 12077
+      },
+      "file": [
+        {
+          "nama": "retro-80an.gbfx",
+          "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-retro-80an-v1-retro-80an.gbfx",
+          "sha256": "20bff8bab45479e9232e7ee4883d519f4ed45e0908da1af430139d6f348879be",
+          "size": 359
         }
       ]
     }
