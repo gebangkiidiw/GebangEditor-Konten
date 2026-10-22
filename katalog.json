@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "terbit": 1792660402,
+  "terbit": 1792660407,
   "item": [
     {
       "id": "preset-murotal-ayat-putih",
@@ -768,6 +768,28 @@
           "nama": "kontras-tinggi.gbfx",
           "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-kontras-tinggi-v1-kontras-tinggi.gbfx",
           "sha256": "f1a071d19f2e51d461b149ff298a69bdc9ef700a1d6560ab5bd555a16fdd4113",
+          "size": 340
+        }
+      ]
+    },
+    {
+      "id": "filter-kopi",
+      "kategori": "efek",
+      "nama": "Kopi",
+      "premium": true,
+      "versi": 1,
+      "grup": "filter",
+      "thumb": {
+        "nama": "thumb.png",
+        "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-kopi-v1-thumb.png",
+        "sha256": "9ab3c914dfca12a0bbc6a09725387f13db10fdbb9c7b337e7db0c8053b1cef7e",
+        "size": 9713
+      },
+      "file": [
+        {
+          "nama": "kopi.gbfx",
+          "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-kopi-v1-kopi.gbfx",
+          "sha256": "5bf0d3853704d41139baea56813e68c171be1e643624ab7604ccbd6804725419",
           "size": 340
         }
       ]
