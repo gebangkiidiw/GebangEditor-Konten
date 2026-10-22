@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "terbit": 1792660365,
+  "terbit": 1792660369,
   "item": [
     {
       "id": "preset-murotal-ayat-putih",
@@ -593,6 +593,28 @@
           "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-film-hangat-v1-film-hangat.gbfx",
           "sha256": "df9eebaa36d5d74b6400d3e485b91a70ec2093b515d73a32522446e0b685ba51",
           "size": 360
+        }
+      ]
+    },
+    {
+      "id": "filter-film-hijau",
+      "kategori": "efek",
+      "nama": "Film Hijau",
+      "premium": true,
+      "versi": 1,
+      "grup": "filter",
+      "thumb": {
+        "nama": "thumb.png",
+        "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-film-hijau-v1-thumb.png",
+        "sha256": "b4216d7e95fed528927da74c2dd9ed030963b65656e18c338f0bab6b9c9516da",
+        "size": 11520
+      },
+      "file": [
+        {
+          "nama": "film-hijau.gbfx",
+          "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-film-hijau-v1-film-hijau.gbfx",
+          "sha256": "9129859998765f9935bb3a5b988e8c2d278ee4822e8b741a12426a7234ad3e4d",
+          "size": 349
         }
       ]
     }
