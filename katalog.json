@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "terbit": 1792660426,
+  "terbit": 1792660430,
   "item": [
     {
       "id": "preset-murotal-ayat-putih",
@@ -879,6 +879,28 @@
           "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-lembut-v1-lembut.gbfx",
           "sha256": "33a04b2e7f8311b8bd214c3cc19a2f0427e0f92eb7430e0b62a8dbe04fedb67b",
           "size": 343
+        }
+      ]
+    },
+    {
+      "id": "filter-lomo",
+      "kategori": "efek",
+      "nama": "Lomo",
+      "premium": true,
+      "versi": 1,
+      "grup": "filter",
+      "thumb": {
+        "nama": "thumb.png",
+        "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-lomo-v1-thumb.png",
+        "sha256": "27d30afff253b05acab57ea76bc9ac6524a33e7940611f8ff45f93b8fe7b43a1",
+        "size": 12000
+      },
+      "file": [
+        {
+          "nama": "lomo.gbfx",
+          "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-lomo-v1-lomo.gbfx",
+          "sha256": "2317958ad668081ab124d2e0e40ae18d2d0ffb95ec73cd8b2285b455616fcbb3",
+          "size": 347
         }
       ]
     }
