@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "terbit": 1792660530,
+  "terbit": 1792660535,
   "item": [
     {
       "id": "preset-murotal-ayat-putih",
@@ -1363,6 +1363,28 @@
           "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-sinematik-teal-v1-sinematik-teal.gbfx",
           "sha256": "292b75d262f90eb9da1cbe45d71d8b1fbc7ca726ea555a3962b1edea22c8e709",
           "size": 362
+        }
+      ]
+    },
+    {
+      "id": "filter-teal-oranye",
+      "kategori": "efek",
+      "nama": "Teal Oranye",
+      "premium": true,
+      "versi": 1,
+      "grup": "filter",
+      "thumb": {
+        "nama": "thumb.png",
+        "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-teal-oranye-v1-thumb.png",
+        "sha256": "9e93fa616cdda651b2ea38c23e988a2a1210788f4f8f58ad126a965d9b171a02",
+        "size": 11663
+      },
+      "file": [
+        {
+          "nama": "teal-oranye.gbfx",
+          "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-teal-oranye-v1-teal-oranye.gbfx",
+          "sha256": "856bd2ededeb10f1f54525d95a9e17d5b0a8bed22ecbf69b37dcc92016e81bc4",
+          "size": 347
         }
       ]
     }
