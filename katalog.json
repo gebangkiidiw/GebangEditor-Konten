@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "terbit": 1792660806,
+  "terbit": 1792660809,
   "item": [
     {
       "id": "preset-murotal-ayat-putih",
@@ -351,7 +351,7 @@
       "id": "preset-hujan-nur",
       "kategori": "preset",
       "nama": "Hujan Nur",
-      "premium": false,
+      "premium": true,
       "versi": 1,
       "grup": "murotal",
       "minApp": "0.1.5",
