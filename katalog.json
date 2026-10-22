@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "terbit": 1792660333,
+  "terbit": 1792660338,
   "item": [
     {
       "id": "preset-murotal-ayat-putih",
@@ -461,6 +461,28 @@
           "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-cokelat-hangat-v1-cokelat-hangat.gbfx",
           "sha256": "f51d2abec08da457999edf2ff6c200a42313266f0d54ce9c981302d83eaf25f8",
           "size": 364
+        }
+      ]
+    },
+    {
+      "id": "filter-cross-proses",
+      "kategori": "efek",
+      "nama": "Cross Proses",
+      "premium": true,
+      "versi": 1,
+      "grup": "filter",
+      "thumb": {
+        "nama": "thumb.png",
+        "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-cross-proses-v1-thumb.png",
+        "sha256": "959bdbb5818f0d98c5f8cb95ef01ec8150430d12c42736ee990aac32791f5c81",
+        "size": 11322
+      },
+      "file": [
+        {
+          "nama": "cross-proses.gbfx",
+          "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-cross-proses-v1-cross-proses.gbfx",
+          "sha256": "d5037ba840e1cdc72fb8ff6191fd84209451c57d906c44af6534375626a7b24f",
+          "size": 327
         }
       ]
     }
