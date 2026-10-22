@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "terbit": 1792582694,
+  "terbit": 1792658707,
   "item": [
     {
       "id": "preset-murotal-ayat-putih",
@@ -83,6 +83,35 @@
           "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/partikel/partikel-bintang-gantung-v1-partikel.json",
           "sha256": "17bc4c0256ec338f2293a59792f038a6ba61a9dc6a5015a42cbb844b0b50aca2",
           "size": 1397
+        }
+      ]
+    },
+    {
+      "id": "preset-kubah-mihrab",
+      "kategori": "preset",
+      "nama": "Kubah Mihrab",
+      "premium": false,
+      "versi": 1,
+      "grup": "murotal",
+      "minApp": "0.1.5",
+      "thumb": {
+        "nama": "thumb.png",
+        "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/preset/preset-kubah-mihrab-v1-thumb.png",
+        "sha256": "edff15d757d10ae654b196d1e0b2f0bb2dbc136b0939f8aac3c80f317778c14b",
+        "size": 27146
+      },
+      "file": [
+        {
+          "nama": "dekor.png",
+          "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/preset/preset-kubah-mihrab-v1-dekor.png",
+          "sha256": "a738a3357afd0728f9634fb9ec6c0086c9303afa74d6b9da34fd74aa5bd3116b",
+          "size": 86683
+        },
+        {
+          "nama": "preset.json",
+          "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/preset/preset-kubah-mihrab-v1-preset.json",
+          "sha256": "17e87cefb2fcd5ce2e49ca3010095cfb3851c463d23f3514d952681874787a29",
+          "size": 3751
         }
       ]
     }
