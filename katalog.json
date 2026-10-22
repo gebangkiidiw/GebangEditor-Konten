@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "terbit": 1792658744,
+  "terbit": 1792658749,
   "item": [
     {
       "id": "preset-murotal-ayat-putih",
@@ -344,6 +344,35 @@
           "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/preset/preset-kelopak-mawar-v1-preset.json",
           "sha256": "29fefa47def4e1377cc2e3fc30d9fc1c87f95f3faee88e5a8a7300a17b683c9e",
           "size": 14818
+        }
+      ]
+    },
+    {
+      "id": "preset-hujan-nur",
+      "kategori": "preset",
+      "nama": "Hujan Nur",
+      "premium": false,
+      "versi": 1,
+      "grup": "murotal",
+      "minApp": "0.1.5",
+      "thumb": {
+        "nama": "thumb.png",
+        "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/preset/preset-hujan-nur-v1-thumb.png",
+        "sha256": "1e785220684aa99da8d479ec5f6d3fc9c57ffbfc707c9cb6400332ac11a293b2",
+        "size": 22932
+      },
+      "file": [
+        {
+          "nama": "dekor.png",
+          "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/preset/preset-hujan-nur-v1-dekor.png",
+          "sha256": "afb87e31bcd2a0f65009a8a9005cdf851714145be999135ea7161265a56003ae",
+          "size": 6392
+        },
+        {
+          "nama": "preset.json",
+          "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/preset/preset-hujan-nur-v1-preset.json",
+          "sha256": "ce092bdf2371d5cc302f27901316c76c69abd8d997f71bd95b3d9f5b10e850c6",
+          "size": 16511
         }
       ]
     }
