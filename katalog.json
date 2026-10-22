@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "terbit": 1792660348,
+  "terbit": 1792660355,
   "item": [
     {
       "id": "preset-murotal-ayat-putih",
@@ -527,6 +527,28 @@
           "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-emas-hijau-v1-emas-hijau.gbfx",
           "sha256": "0970b495ea19c065b3b95b25e961ea2b24bc376df2957387a667c06777e96c8e",
           "size": 362
+        }
+      ]
+    },
+    {
+      "id": "filter-emas-tua",
+      "kategori": "efek",
+      "nama": "Emas Tua",
+      "premium": true,
+      "versi": 1,
+      "grup": "filter",
+      "thumb": {
+        "nama": "thumb.png",
+        "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-emas-tua-v1-thumb.png",
+        "sha256": "a03543ba6ec4785eba72c94409a1bba84084b3634b71e9f168f3d802feac2cf5",
+        "size": 9653
+      },
+      "file": [
+        {
+          "nama": "emas-tua.gbfx",
+          "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-emas-tua-v1-emas-tua.gbfx",
+          "sha256": "1e1caf8034156c29f10d1e3cb0285eafce31a3dea1d1d74029695c77afc70200",
+          "size": 341
         }
       ]
     }
