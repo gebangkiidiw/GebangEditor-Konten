@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "terbit": 1792660412,
+  "terbit": 1792660416,
   "item": [
     {
       "id": "preset-murotal-ayat-putih",
@@ -813,6 +813,28 @@
           "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-koran-v1-koran.gbfx",
           "sha256": "09d9d6a1db5c3b3554f8465b6a18af4c465a6a9d4363615fbf517594536df482",
           "size": 343
+        }
+      ]
+    },
+    {
+      "id": "filter-lampu-kota",
+      "kategori": "efek",
+      "nama": "Lampu Kota",
+      "premium": true,
+      "versi": 1,
+      "grup": "filter",
+      "thumb": {
+        "nama": "thumb.png",
+        "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-lampu-kota-v1-thumb.png",
+        "sha256": "a72bbd55d555541024c332fd4d9e5419b1faa6490f2139440453be4c22d2a421",
+        "size": 11075
+      },
+      "file": [
+        {
+          "nama": "lampu-kota.gbfx",
+          "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-lampu-kota-v1-lampu-kota.gbfx",
+          "sha256": "700b81780f74ec33e89b5913140a489ce2ae254dc1c24433c70b014740b67af6",
+          "size": 329
         }
       ]
     }
