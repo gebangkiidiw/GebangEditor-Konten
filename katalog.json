@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "terbit": 1792660338,
+  "terbit": 1792660344,
   "item": [
     {
       "id": "preset-murotal-ayat-putih",
@@ -483,6 +483,28 @@
           "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-cross-proses-v1-cross-proses.gbfx",
           "sha256": "d5037ba840e1cdc72fb8ff6191fd84209451c57d906c44af6534375626a7b24f",
           "size": 327
+        }
+      ]
+    },
+    {
+      "id": "filter-dingin-pudar",
+      "kategori": "efek",
+      "nama": "Dingin Pudar",
+      "premium": true,
+      "versi": 1,
+      "grup": "filter",
+      "thumb": {
+        "nama": "thumb.png",
+        "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-dingin-pudar-v1-thumb.png",
+        "sha256": "74b7bb88f080706961d3ea736ad88b49718868f5710817cebf4ac347a3eb7611",
+        "size": 11057
+      },
+      "file": [
+        {
+          "nama": "dingin-pudar.gbfx",
+          "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-dingin-pudar-v1-dingin-pudar.gbfx",
+          "sha256": "32a884498f19c5658da6df0d84bfdda56919cbac28cfccbefc8f66e6f5d30aab",
+          "size": 326
         }
       ]
     }
