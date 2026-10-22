@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "terbit": 1792660488,
+  "terbit": 1792660492,
   "item": [
     {
       "id": "preset-murotal-ayat-putih",
@@ -1165,6 +1165,28 @@
           "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-negatif-v1-negatif.gbfx",
           "sha256": "de9ccca29e5cd56b9f176421a39566486f9d1f4842e7cd080bee680ab9af7a5e",
           "size": 317
+        }
+      ]
+    },
+    {
+      "id": "filter-neon",
+      "kategori": "efek",
+      "nama": "Neon",
+      "premium": true,
+      "versi": 1,
+      "grup": "filter",
+      "thumb": {
+        "nama": "thumb.png",
+        "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-neon-v1-thumb.png",
+        "sha256": "e3ebbc23ad70200d4d20fb700c609dc4393fb3c5c39ba7e5dae6ac0b454b77cc",
+        "size": 12171
+      },
+      "file": [
+        {
+          "nama": "neon.gbfx",
+          "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-neon-v1-neon.gbfx",
+          "sha256": "51c10a3cd4e6c47820789cebc0d6a7e11501e4098c5269b62ad96025e9e190b0",
+          "size": 350
         }
       ]
     }
