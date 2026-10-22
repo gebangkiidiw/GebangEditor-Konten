@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "terbit": 1792660545,
+  "terbit": 1792660550,
   "item": [
     {
       "id": "preset-murotal-ayat-putih",
@@ -1429,6 +1429,28 @@
           "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-tukar-warna-v1-tukar-warna.gbfx",
           "sha256": "72a29be90b90f7fa97294bb03dbd2e39809a295753ba0958c6594d2ffa68a6bc",
           "size": 322
+        }
+      ]
+    },
+    {
+      "id": "filter-ungu-mistik",
+      "kategori": "efek",
+      "nama": "Ungu Mistik",
+      "premium": true,
+      "versi": 1,
+      "grup": "filter",
+      "thumb": {
+        "nama": "thumb.png",
+        "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-ungu-mistik-v1-thumb.png",
+        "sha256": "212303ec6ac8bd1c9c6b1c4ab29cdbfce9b2d9feb979b1315a0581ddf015fe09",
+        "size": 11494
+      },
+      "file": [
+        {
+          "nama": "ungu-mistik.gbfx",
+          "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-ungu-mistik-v1-ungu-mistik.gbfx",
+          "sha256": "d3866b91307204ca8aa1448f4995e573525a66b6716ff3d0b600dbe190f7256c",
+          "size": 339
         }
       ]
     }
