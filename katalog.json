@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "terbit": 1792660492,
+  "terbit": 1792660497,
   "item": [
     {
       "id": "preset-murotal-ayat-putih",
@@ -1187,6 +1187,28 @@
           "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-neon-v1-neon.gbfx",
           "sha256": "51c10a3cd4e6c47820789cebc0d6a7e11501e4098c5269b62ad96025e9e190b0",
           "size": 350
+        }
+      ]
+    },
+    {
+      "id": "filter-pastel",
+      "kategori": "efek",
+      "nama": "Pastel",
+      "premium": true,
+      "versi": 1,
+      "grup": "filter",
+      "thumb": {
+        "nama": "thumb.png",
+        "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-pastel-v1-thumb.png",
+        "sha256": "07d69e05211e381f9add38bdc39961a90cb1c323a16636cfe9512b57642f17ed",
+        "size": 10456
+      },
+      "file": [
+        {
+          "nama": "pastel.gbfx",
+          "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-pastel-v1-pastel.gbfx",
+          "sha256": "0e09901784adaa93a35053922c6ef4caf3582a4f71bbee179ef39baf66f5a034",
+          "size": 342
         }
       ]
     }
