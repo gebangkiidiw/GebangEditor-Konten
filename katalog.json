@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "terbit": 1792660535,
+  "terbit": 1792660540,
   "item": [
     {
       "id": "preset-murotal-ayat-putih",
@@ -1385,6 +1385,28 @@
           "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-teal-oranye-v1-teal-oranye.gbfx",
           "sha256": "856bd2ededeb10f1f54525d95a9e17d5b0a8bed22ecbf69b37dcc92016e81bc4",
           "size": 347
+        }
+      ]
+    },
+    {
+      "id": "filter-tropis",
+      "kategori": "efek",
+      "nama": "Tropis",
+      "premium": true,
+      "versi": 1,
+      "grup": "filter",
+      "thumb": {
+        "nama": "thumb.png",
+        "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-tropis-v1-thumb.png",
+        "sha256": "cc75c480db4731baec00829517c8d5d734baeb89c8486c41b7b226b31da7c828",
+        "size": 12093
+      },
+      "file": [
+        {
+          "nama": "tropis.gbfx",
+          "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-tropis-v1-tropis.gbfx",
+          "sha256": "ab2a673c49baa20898e0d606f8e92fb4df0d666c5a2348ef6535ce3562d7c8a4",
+          "size": 353
         }
       ]
     }
