@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "terbit": 1792660459,
+  "terbit": 1792660464,
   "item": [
     {
       "id": "preset-murotal-ayat-putih",
@@ -1033,6 +1033,28 @@
           "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-mono-kontras-v1-mono-kontras.gbfx",
           "sha256": "ebf271d3ed65a10569c96827c2a500bd8aa052165fc25cc7c74194ace6dda1cf",
           "size": 357
+        }
+      ]
+    },
+    {
+      "id": "filter-mono-lembut",
+      "kategori": "efek",
+      "nama": "Mono Lembut",
+      "premium": true,
+      "versi": 1,
+      "grup": "filter",
+      "thumb": {
+        "nama": "thumb.png",
+        "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-mono-lembut-v1-thumb.png",
+        "sha256": "7096a7342e15b0d738de10826edb8b82f7ba44a49021c679aef58eb5454085e1",
+        "size": 7622
+      },
+      "file": [
+        {
+          "nama": "mono-lembut.gbfx",
+          "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-mono-lembut-v1-mono-lembut.gbfx",
+          "sha256": "665130c482f33192860e66985bdf1df5d9b630770f05471fbcf5e3ddbd9f5125",
+          "size": 358
         }
       ]
     }
