@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "terbit": 1792660360,
+  "terbit": 1792660365,
   "item": [
     {
       "id": "preset-murotal-ayat-putih",
@@ -571,6 +571,28 @@
           "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-fajar-lembut-v1-fajar-lembut.gbfx",
           "sha256": "60f490658354e682d27f0aebd707bd6f38ed80e1c71b96d340b8a0e0fdbf58e6",
           "size": 354
+        }
+      ]
+    },
+    {
+      "id": "filter-film-hangat",
+      "kategori": "efek",
+      "nama": "Film Hangat",
+      "premium": true,
+      "versi": 1,
+      "grup": "filter",
+      "thumb": {
+        "nama": "thumb.png",
+        "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-film-hangat-v1-thumb.png",
+        "sha256": "2852bbe651cfefacd9e884045fe0fb4e47abcb2cf8cfef2b3d1c675af1b0aeed",
+        "size": 11739
+      },
+      "file": [
+        {
+          "nama": "film-hangat.gbfx",
+          "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-film-hangat-v1-film-hangat.gbfx",
+          "sha256": "df9eebaa36d5d74b6400d3e485b91a70ec2093b515d73a32522446e0b685ba51",
+          "size": 360
         }
       ]
     }
