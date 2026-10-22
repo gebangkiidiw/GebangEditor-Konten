@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "terbit": 1792660506,
+  "terbit": 1792660512,
   "item": [
     {
       "id": "preset-murotal-ayat-putih",
@@ -1253,6 +1253,28 @@
           "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-redup-v1-redup.gbfx",
           "sha256": "6c09133bfe4e2e82b4c9654aa2b3dec2783c9d168472843efa02740f06c03a69",
           "size": 344
+        }
+      ]
+    },
+    {
+      "id": "filter-rembulan",
+      "kategori": "efek",
+      "nama": "Rembulan",
+      "premium": true,
+      "versi": 1,
+      "grup": "filter",
+      "thumb": {
+        "nama": "thumb.png",
+        "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-rembulan-v1-thumb.png",
+        "sha256": "e4226c46c772206b1b1a30fd3ee5c334dc0f3bc687439a1ec6ba30768fae3d49",
+        "size": 10157
+      },
+      "file": [
+        {
+          "nama": "rembulan.gbfx",
+          "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-rembulan-v1-rembulan.gbfx",
+          "sha256": "b33fe45d5ab49551eadbf969d0c20f04d873ff28eb2630fe80941f7f69da42bc",
+          "size": 343
         }
       ]
     }
