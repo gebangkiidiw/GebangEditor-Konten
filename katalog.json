@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "terbit": 1792660319,
+  "terbit": 1792660324,
   "item": [
     {
       "id": "preset-murotal-ayat-putih",
@@ -395,6 +395,28 @@
           "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-bleach-bypass-v1-bleach-bypass.gbfx",
           "sha256": "ef783aaccc7b4d228916dd19c8d13ad85570e4aced657d47bec26255f430f16e",
           "size": 356
+        }
+      ]
+    },
+    {
+      "id": "filter-cahaya-lilin",
+      "kategori": "efek",
+      "nama": "Cahaya Lilin",
+      "premium": true,
+      "versi": 1,
+      "grup": "filter",
+      "thumb": {
+        "nama": "thumb.png",
+        "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-cahaya-lilin-v1-thumb.png",
+        "sha256": "ded3c956817b19ae89b33ef48b5e01a629db37f95d4d1fa871e2fa1322e2b9fb",
+        "size": 10891
+      },
+      "file": [
+        {
+          "nama": "cahaya-lilin.gbfx",
+          "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-cahaya-lilin-v1-cahaya-lilin.gbfx",
+          "sha256": "e059ea12f8ca61e7447591783f8379af43682655473fd07c9ebd5b4cf8865cd7",
+          "size": 351
         }
       ]
     }
