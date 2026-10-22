@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "terbit": 1792660416,
+  "terbit": 1792660421,
   "item": [
     {
       "id": "preset-murotal-ayat-putih",
@@ -835,6 +835,28 @@
           "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-lampu-kota-v1-lampu-kota.gbfx",
           "sha256": "700b81780f74ec33e89b5913140a489ce2ae254dc1c24433c70b014740b67af6",
           "size": 329
+        }
+      ]
+    },
+    {
+      "id": "filter-laut-dalam",
+      "kategori": "efek",
+      "nama": "Laut Dalam",
+      "premium": true,
+      "versi": 1,
+      "grup": "filter",
+      "thumb": {
+        "nama": "thumb.png",
+        "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-laut-dalam-v1-thumb.png",
+        "sha256": "b3ee243dc8b60329a3fc084154af018d34b54b5d7f9dfb5fcf2b6f9a346408f7",
+        "size": 10959
+      },
+      "file": [
+        {
+          "nama": "laut-dalam.gbfx",
+          "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-laut-dalam-v1-laut-dalam.gbfx",
+          "sha256": "d4ac6d1459392a422c947cd69509f7cb5b0fe798693b9deb16241cc215352440",
+          "size": 328
         }
       ]
     }
