@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "terbit": 1792660355,
+  "terbit": 1792660360,
   "item": [
     {
       "id": "preset-murotal-ayat-putih",
@@ -549,6 +549,28 @@
           "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-emas-tua-v1-emas-tua.gbfx",
           "sha256": "1e1caf8034156c29f10d1e3cb0285eafce31a3dea1d1d74029695c77afc70200",
           "size": 341
+        }
+      ]
+    },
+    {
+      "id": "filter-fajar-lembut",
+      "kategori": "efek",
+      "nama": "Fajar Lembut",
+      "premium": true,
+      "versi": 1,
+      "grup": "filter",
+      "thumb": {
+        "nama": "thumb.png",
+        "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-fajar-lembut-v1-thumb.png",
+        "sha256": "7ee7563f8ba38e41f490b87c6e7c9d67976b94abd148bd00427fc26f515871cf",
+        "size": 11057
+      },
+      "file": [
+        {
+          "nama": "fajar-lembut.gbfx",
+          "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-fajar-lembut-v1-fajar-lembut.gbfx",
+          "sha256": "60f490658354e682d27f0aebd707bd6f38ed80e1c71b96d340b8a0e0fdbf58e6",
+          "size": 354
         }
       ]
     }
