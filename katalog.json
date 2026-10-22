@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "terbit": 1792658735,
+  "terbit": 1792658739,
   "item": [
     {
       "id": "preset-murotal-ayat-putih",
@@ -286,6 +286,35 @@
           "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/preset/preset-bingkai-kata-v1-preset.json",
           "sha256": "ebb2c13a3592fbe92fa0813a9603b1cb7e767ff44911b6159f567fe0ed29634c",
           "size": 6062
+        }
+      ]
+    },
+    {
+      "id": "preset-sulur-emas",
+      "kategori": "preset",
+      "nama": "Sulur Emas",
+      "premium": false,
+      "versi": 1,
+      "grup": "murotal",
+      "minApp": "0.1.5",
+      "thumb": {
+        "nama": "thumb.png",
+        "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/preset/preset-sulur-emas-v1-thumb.png",
+        "sha256": "630d522bee69babe25ac931691ccfa9cb0548cd44cc9f6ab90ce076188ec7e89",
+        "size": 28673
+      },
+      "file": [
+        {
+          "nama": "dekor.png",
+          "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/preset/preset-sulur-emas-v1-dekor.png",
+          "sha256": "710d26ffb0b9691f9bec25bd1568c65452d41a1382d9253448d2252312cf43cf",
+          "size": 57747
+        },
+        {
+          "nama": "preset.json",
+          "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/preset/preset-sulur-emas-v1-preset.json",
+          "sha256": "7fe07126228a335b202faa8d46ae6e65dc35e4ef7a59877679247855ab13b9fe",
+          "size": 6387
         }
       ]
     }
