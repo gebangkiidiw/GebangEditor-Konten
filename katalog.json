@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "terbit": 1792660369,
+  "terbit": 1792660374,
   "item": [
     {
       "id": "preset-murotal-ayat-putih",
@@ -615,6 +615,28 @@
           "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-film-hijau-v1-film-hijau.gbfx",
           "sha256": "9129859998765f9935bb3a5b988e8c2d278ee4822e8b741a12426a7234ad3e4d",
           "size": 349
+        }
+      ]
+    },
+    {
+      "id": "filter-film-klasik",
+      "kategori": "efek",
+      "nama": "Film Klasik",
+      "premium": true,
+      "versi": 1,
+      "grup": "filter",
+      "thumb": {
+        "nama": "thumb.png",
+        "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-film-klasik-v1-thumb.png",
+        "sha256": "8e034b831d20ea22a97672a8466ee6782b08f6b59ce3fdc1b806bf897191e1ca",
+        "size": 11240
+      },
+      "file": [
+        {
+          "nama": "film-klasik.gbfx",
+          "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-film-klasik-v1-film-klasik.gbfx",
+          "sha256": "10b9c07fa28f851e7c045cbcba85eb8b314a55f0b76ec693e7714247c4cd1002",
+          "size": 358
         }
       ]
     }
