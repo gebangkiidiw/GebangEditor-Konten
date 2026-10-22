@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "terbit": 1792660388,
+  "terbit": 1792660393,
   "item": [
     {
       "id": "preset-murotal-ayat-putih",
@@ -703,6 +703,28 @@
           "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-hijau-daun-v1-hijau-daun.gbfx",
           "sha256": "875c68cb501d6c700084399976f04a6715f145828204bd8446378096816910a0",
           "size": 353
+        }
+      ]
+    },
+    {
+      "id": "filter-infra-merah",
+      "kategori": "efek",
+      "nama": "Infra Merah",
+      "premium": true,
+      "versi": 1,
+      "grup": "filter",
+      "thumb": {
+        "nama": "thumb.png",
+        "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-infra-merah-v1-thumb.png",
+        "sha256": "f90c4feb071ab5d2f1ef978039c821253f01aedf8a0f7ae55ff0b2e98aeba125",
+        "size": 11398
+      },
+      "file": [
+        {
+          "nama": "infra-merah.gbfx",
+          "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/efek/filter-infra-merah-v1-infra-merah.gbfx",
+          "sha256": "b44662b2627bcf7b76a31b3152cc7dc5f8ac77652caa391fbaa6e92ac403e08a",
+          "size": 322
         }
       ]
     }
