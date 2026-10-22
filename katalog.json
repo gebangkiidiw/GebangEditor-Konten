@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "terbit": 1792660822,
+  "terbit": 1792660825,
   "item": [
     {
       "id": "preset-murotal-ayat-putih",
@@ -235,7 +235,7 @@
       "id": "preset-tasbih-ayat",
       "kategori": "preset",
       "nama": "Tasbih Ayat",
-      "premium": false,
+      "premium": true,
       "versi": 1,
       "grup": "murotal",
       "minApp": "0.1.5",
