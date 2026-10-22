@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "terbit": 1792660809,
+  "terbit": 1792660812,
   "item": [
     {
       "id": "preset-murotal-ayat-putih",
@@ -322,7 +322,7 @@
       "id": "preset-kelopak-mawar",
       "kategori": "preset",
       "nama": "Kelopak Mawar",
-      "premium": false,
+      "premium": true,
       "versi": 1,
       "grup": "murotal",
       "minApp": "0.1.5",
