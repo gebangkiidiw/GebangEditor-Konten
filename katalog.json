@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "terbit": 1792679293,
+  "terbit": 1793048502,
   "item": [
     {
       "id": "preset-murotal-ayat-putih",
@@ -1519,6 +1519,34 @@
           "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/preset/preset-kartu-musik-v1-preset.json",
           "sha256": "23e548d1ea75d2b7dd98043b3b308cdc76a087815f663467674627dfb37e2000",
           "size": 466
+        }
+      ]
+    },
+    {
+      "id": "partikel-kelopak-ungu",
+      "kategori": "partikel",
+      "nama": "Kelopak ungu bercahaya",
+      "premium": false,
+      "versi": 1,
+      "minApp": "0.1.5",
+      "thumb": {
+        "nama": "thumb.png",
+        "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/partikel/partikel-kelopak-ungu-v1-thumb.png",
+        "sha256": "97926c2992fe1d0424a1fb7a28b22aaf77c7a4298705682ec8d0ae9b3c432232",
+        "size": 31059
+      },
+      "file": [
+        {
+          "nama": "kelopak.png",
+          "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/partikel/partikel-kelopak-ungu-v1-kelopak.png",
+          "sha256": "b420aca0c61b1d7e879ed86fd55ce797c2206c193526489db2aabb7ac08be3e8",
+          "size": 37090
+        },
+        {
+          "nama": "partikel.json",
+          "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/partikel/partikel-kelopak-ungu-v1-partikel.json",
+          "sha256": "5c1b82630ea45b5fe2fefa630b9fdba2064c42a9fc2c1f5c8af5994abcb8037d",
+          "size": 817
         }
       ]
     }
