@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "terbit": 1793048502,
+  "terbit": 1793048508,
   "item": [
     {
       "id": "preset-murotal-ayat-putih",
@@ -1547,6 +1547,34 @@
           "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/partikel/partikel-kelopak-ungu-v1-partikel.json",
           "sha256": "5c1b82630ea45b5fe2fefa630b9fdba2064c42a9fc2c1f5c8af5994abcb8037d",
           "size": 817
+        }
+      ]
+    },
+    {
+      "id": "partikel-cincin-neon",
+      "kategori": "partikel",
+      "nama": "Cincin neon pelangi",
+      "premium": false,
+      "versi": 1,
+      "minApp": "0.1.5",
+      "thumb": {
+        "nama": "thumb.png",
+        "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/partikel/partikel-cincin-neon-v1-thumb.png",
+        "sha256": "a8e6310fe22c88606649ee6aedad4fa177835b6b6cb1b5d26a63402f57b7fcd8",
+        "size": 66799
+      },
+      "file": [
+        {
+          "nama": "cincin.png",
+          "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/partikel/partikel-cincin-neon-v1-cincin.png",
+          "sha256": "09b8add15020e89a2fc511e7997edbfa970a9fbb8f491323d63e7b0c3ccfdf93",
+          "size": 34132
+        },
+        {
+          "nama": "partikel.json",
+          "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/partikel/partikel-cincin-neon-v1-partikel.json",
+          "sha256": "8fce4459092502f979709f312353ebccaa412c68523bf0c2e4e11c38941143b8",
+          "size": 3634
         }
       ]
     }
