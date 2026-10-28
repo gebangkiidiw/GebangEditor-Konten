@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "terbit": 1793048508,
+  "terbit": 1793212329,
   "item": [
     {
       "id": "preset-murotal-ayat-putih",
@@ -1575,6 +1575,29 @@
           "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/partikel/partikel-cincin-neon-v1-partikel.json",
           "sha256": "8fce4459092502f979709f312353ebccaa412c68523bf0c2e4e11c38941143b8",
           "size": 3634
+        }
+      ]
+    },
+    {
+      "id": "preset-ayat-teduh",
+      "kategori": "preset",
+      "nama": "Ayat Teduh",
+      "premium": true,
+      "versi": 1,
+      "grup": "murotal",
+      "minApp": "0.1.5",
+      "thumb": {
+        "nama": "thumb.png",
+        "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/preset/preset-ayat-teduh-v1-thumb.png",
+        "sha256": "6614350f8e5993445ae63b1b452084788e42460147a4613821e1531cb8a90acb",
+        "size": 79103
+      },
+      "file": [
+        {
+          "nama": "preset.json",
+          "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/preset/preset-ayat-teduh-v1-preset.json",
+          "sha256": "0cfa31e3188896ea74bf222b9cc9fef2a63448646bedce7fa9810f60d2910875",
+          "size": 957
         }
       ]
     }
