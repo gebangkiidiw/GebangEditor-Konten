@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "terbit": 1793212329,
+  "terbit": 1793391261,
   "item": [
     {
       "id": "preset-murotal-ayat-putih",
@@ -1598,6 +1598,29 @@
           "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/preset/preset-ayat-teduh-v1-preset.json",
           "sha256": "0cfa31e3188896ea74bf222b9cc9fef2a63448646bedce7fa9810f60d2910875",
           "size": 957
+        }
+      ]
+    },
+    {
+      "id": "preset-shalawat-emas",
+      "kategori": "preset",
+      "nama": "Shalawat Emas",
+      "premium": true,
+      "versi": 1,
+      "grup": "murotal",
+      "minApp": "0.1.14",
+      "thumb": {
+        "nama": "thumb.png",
+        "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/preset/preset-shalawat-emas-v1-thumb.png",
+        "sha256": "65ea923551b16bfa7765022b2f5c32e96e06c2d15a82d7556544f560d7d59971",
+        "size": 56631
+      },
+      "file": [
+        {
+          "nama": "preset.json",
+          "url": "https://github.com/gebangkiidiw/GebangEditor-Konten/releases/download/preset/preset-shalawat-emas-v1-preset.json",
+          "sha256": "b67bdf8a24984cce3ae2ad403425406547478c5310a924494aed0ecd27bafcea",
+          "size": 1072
         }
       ]
     }
